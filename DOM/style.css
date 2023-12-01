@@ -1,0 +1,21 @@
+.box{
+
+    border: 2px solid grey;
+    margin: 10px ;
+
+    background-color: cyan;
+    box-sizing: border-box;
+    height: 160px;
+    width:200px  ;
+    text-align: center;
+    padding: 23px ;
+}
+
+.newClass{
+
+
+    background-color: yellow ;
+    width: 200px;
+    color: red
+}
+

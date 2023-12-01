@@ -1,4 +1,6 @@
 
+
+// Learning How to do set Value object , how dispay array Keys only , Keys Value Display , How make change Keys values etc . 
 const shoppingCart ={
 
  book : 3 , 

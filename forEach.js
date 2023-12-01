@@ -1,15 +1,11 @@
 
 
 
-
-
 var friendsList =["kamal", "jamal","tina","kuddos" , "Zindagi"];
 
 
-for(var i =0 ; i<friendsList.length ; i++){
 
+friendsList.forEach(function printValue(val){
 
-    var list = friendsList[i];
-
-    console.log(list)
-}
+    console.log(val)
+})
